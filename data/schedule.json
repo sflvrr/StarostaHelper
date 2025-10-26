@@ -1,0 +1,50 @@
+{
+  "2025-W43": [
+    {
+      "day": "Пн",
+      "items": [
+        { "time": "09:45", "title": "МатАнализ (лекция)", "link": "https://example.com/matan-lecture" },
+        { "time": "11:30", "title": "МатАнализ (семинар)", "link": "https://example.com/matan-seminar" }
+      ]
+    },
+    {
+      "day": "Вт",
+      "items": [
+        { "time": "12:00", "title": "Дискретная математика", "link": "https://example.com/discrete" },
+        { "time": "14:00", "title": "Физкультура" }
+      ]
+    },
+    {
+      "day": "Ср",
+      "items": [
+        { "time": "10:15", "title": "Программирование", "link": "https://example.com/prog" }
+      ]
+    },
+    {
+      "day": "Чт",
+      "items": [
+        { "time": "08:30", "title": "История науки", "link": "https://example.com/history" }
+      ]
+    },
+    {
+      "day": "Пт",
+      "items": [
+        { "time": "13:30", "title": "Английский язык", "link": "https://example.com/english" }
+      ]
+    }
+  ],
+  "2025-W44": [
+    {
+      "day": "Пн",
+      "items": [
+        { "time": "11:30", "title": "МатАнализ (семинар)", "link": "https://example.com/matan-seminar" }
+      ]
+    },
+    {
+      "day": "Вт",
+      "items": [
+        { "time": "12:00", "title": "Дискретная математика", "link": "https://example.com/discrete" }
+      ]
+    }
+  ]
+}
